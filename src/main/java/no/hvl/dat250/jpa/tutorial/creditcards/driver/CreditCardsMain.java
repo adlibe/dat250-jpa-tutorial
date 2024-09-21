@@ -3,6 +3,11 @@ package no.hvl.dat250.jpa.tutorial.creditcards.driver;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
+import no.hvl.dat250.jpa.tutorial.creditcards.Address;
+import no.hvl.dat250.jpa.tutorial.creditcards.Bank;
+import no.hvl.dat250.jpa.tutorial.creditcards.CreditCard;
+import no.hvl.dat250.jpa.tutorial.creditcards.Customer;
+import no.hvl.dat250.jpa.tutorial.creditcards.Pincode;
 
 public class CreditCardsMain {
 
